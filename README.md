@@ -1,6 +1,6 @@
 ### Andrew Annex
 
-Hello! I am a planetary scientist and avid coder at Caltech. I like to make computers do science, and I am also the author of the SpiceyPy Python library.
+Hello! I am a planetary scientist and avid coder. I like to make computers do science, and I am also the author of the SpiceyPy Python library.
 
 Here's some mars for now 
 

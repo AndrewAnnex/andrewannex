@@ -2,7 +2,7 @@
 
 Hello! I am a planetary scientist and avid coder. I like to make computers do science, and I am also the author of the SpiceyPy Python library.
 
-Here's some mars for now 
+Here's some mars for now (btw I made this elevation model)
 
 
 <img src="https://raw.githubusercontent.com/AndrewAnnex/andrewannex.github.io/master/img/slider_content/1.jpg" alt="Kaporo Crater" height="500" />
